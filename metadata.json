@@ -1,0 +1,5 @@
+{
+  "name": "AI Bulk Email Sender",
+  "description": "An application that simulates sending emails to multiple recipients. Users can compose an email with a subject, body, and a list of recipients. The app uses the Gemini API to process the request and generate a confirmation, mimicking a real email service.",
+  "requestFramePermissions": []
+}
